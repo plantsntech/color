@@ -1,0 +1,25 @@
+
+
+button#btn {
+    background-image: linear-gradient(
+269deg
+, black, #000000a6);
+    padding: 1em;
+    margin: auto;
+    display: block;
+    border-radius: 6px;
+}
+
+.nav-center {
+    display: flex;
+    flex-direction: row;
+    flex-wrap: nowrap;
+    align-content: center;
+    background-image: linear-gradient(
+180deg
+, black, transparent);
+    justify-content: center;
+    align-items: center;
+    color: lightgrey;
+    margin: 0;
+}
